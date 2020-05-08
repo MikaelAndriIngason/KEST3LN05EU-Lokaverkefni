@@ -8,7 +8,7 @@
 ### 2 - Static IP address
 > $ sudo nano /etc/netplan/01-network-manager-all.yaml
 
-![staticip](/Screenshots/staticip.png)
+![staticip](/Screenshots/staticip.PNG)
 
 
 ***
