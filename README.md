@@ -104,6 +104,9 @@ Reminder for myself:
 
 ***
 ### 8 - NTP
+**NTP Configuration**
+
+![ntpconfig](/Screenshots/ntp_conf.PNG)
 
 ***
 ### 9 - Syslog
