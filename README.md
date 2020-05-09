@@ -8,13 +8,13 @@ Búið:
 - 6
 - 7
 - 8
+- 9
 
 
 Reminder for myself:  
 - laga centos og add sentos client dhcp status
-- default gateway
 - Skoða DNS betur
-- og gera allt frá 8-13
+- og gera allt frá 10-13
 
 
 ***
@@ -117,10 +117,23 @@ Reminder for myself:
 
 ***
 ### 9 - Syslog
-**Rsyslog configuration**
+**Rsyslog server configuration**
 > $ sudo nano /etc/rsyslog.conf
 
 ![syslogconf](/Screenshots/rsyslog_conf.PNG)
+
+**Rsyslog client configuration**
+> $ sudo nano /etc/rsyslog.conf
+
+![syslogclientconf](/Screenshots/rsyslog_conf_client.PNG)
+
+**Rsyslog status**
+> $ netstat -4altunp | grep 514
+
+![rsyslogstatus](/Screenshots/rsyslog_listening.PNG)
+
+**Client logs**  
+![clientproof](/Screenshots/rsyslog_proof.PNG)
 
 ***
 ### 10 - Postfix
