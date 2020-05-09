@@ -1,7 +1,14 @@
 # KEST3LN05EU Lokaverkefni
 
 Reminder for myself:  
+- laga centos
 - add sentos client dhcp status
+- búa til tables og setja í þau
+- laga backup file-inn og láta hann keyra kl 00:00 á föstudegi
+- fixa domain/host names
+- default gateway
+- Skoða DNS betur
+- og gera allt frá 8-13
 
 
 ***
@@ -61,6 +68,8 @@ Reminder for myself:
 
 ***
 ### 7 - Scheduled backups
+> $ crontab -e  
+> 0 0 * * 5 (00:00 á föstudegi)
 
 ***
 ### 8 - NTP
