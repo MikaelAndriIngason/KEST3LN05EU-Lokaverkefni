@@ -74,8 +74,18 @@ Reminder for myself:
 
 ***
 ### 7 - Scheduled backups
+**Schedule configuration**
 > $ crontab -e  
-> 0 0 * * 5 (00:00 á föstudegi)
+
+![crontabconfig](/Screenshots/backup_crontab.PNG)
+
+**Backup script**
+
+![backupscript](/Screenshots/backup_script.PNG)
+
+**Backup test**
+
+![backupproof](/Screenshots/backup_proof.PNG)
 
 ***
 ### 8 - NTP
