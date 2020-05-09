@@ -1,5 +1,11 @@
 # KEST3LN05EU Lokaverkefni
 
+Búið:
+- 2
+- 3
+- 5
+
+
 Reminder for myself:  
 - laga centos
 - add sentos client dhcp status
