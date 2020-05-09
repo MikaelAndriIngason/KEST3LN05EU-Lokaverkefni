@@ -4,12 +4,12 @@ Búið:
 - 2
 - 3
 - 5
+- 6
 - 7
 
 
 Reminder for myself:  
 - laga centos og add sentos client dhcp status
-- búa til tables og setja í þau
 - default gateway
 - Skoða DNS betur
 - og gera allt frá 8-13
@@ -69,6 +69,22 @@ Reminder for myself:
 ***
 ### 6 - MySQL
 > $ sudo mysql -u root
+
+**Employees**
+
+![sqlemployees](/Screenshots/sql_employees.PNG)
+
+**Departments**
+
+![sqldepartments](/Screenshots/sql_departments.PNG)
+
+**Locations**
+
+![sqllocations](/Screenshots/sql_locations.PNG)
+
+**Jobs**
+
+![sqljobs](/Screenshots/sql_jobs.PNG)
 
 ***
 ### 7 - Scheduled backups
