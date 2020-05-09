@@ -15,7 +15,7 @@ Reminder for myself:
 - laga centos og add sentos client dhcp status
 - Skoða DNS betur
 - og gera allt frá 10-13
-
+- postfix og roundcube
 
 ***
 
