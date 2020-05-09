@@ -157,3 +157,6 @@ Reminder for myself:
 
 ***
 ### 13 - NMAP
+> $ nmap 10.10.0.14
+
+![nmap](/Screenshots/nmap.PNG)
