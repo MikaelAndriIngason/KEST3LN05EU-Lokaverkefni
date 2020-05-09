@@ -150,5 +150,10 @@ Reminder for myself:
 
 ![sshrsa](/Screenshots/ssh_rsakay.PNG)
 
+**SSH login**
+> $ ssh [username]@10.10.0.14
+
+![sshlogin](/Screenshots/ssh_login.PNG)
+
 ***
 ### 13 - NMAP
