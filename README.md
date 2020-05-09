@@ -7,6 +7,7 @@ Búið:
 - 5
 - 6
 - 7
+- 8
 
 
 Reminder for myself:  
@@ -60,7 +61,7 @@ Reminder for myself:
 
 ***
 ### 5 - Create users
-> sudo adduser [username]
+> $ sudo adduser [username]
 
 **Proof of users**
 > ls /home/
@@ -105,8 +106,14 @@ Reminder for myself:
 ***
 ### 8 - NTP
 **NTP Configuration**
+> $ sudo nano /etc/ntp.conf
 
 ![ntpconfig](/Screenshots/ntp_conf.PNG)
+
+**NTP Syncronization from client**
+> $ ntpq -p
+
+![ntpsync](/Screenshots/ntp_sync.PNG)
 
 ***
 ### 9 - Syslog
