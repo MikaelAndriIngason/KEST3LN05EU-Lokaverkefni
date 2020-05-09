@@ -117,6 +117,10 @@ Reminder for myself:
 
 ***
 ### 9 - Syslog
+**Rsyslog configuration**
+> $ sudo nano /etc/rsyslog.conf
+
+![syslogconf](/Screenshots/rsyslog_conf.PNG)
 
 ***
 ### 10 - Postfix
