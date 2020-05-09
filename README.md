@@ -4,14 +4,12 @@ Búið:
 - 2
 - 3
 - 5
+- 7
 
 
 Reminder for myself:  
-- laga centos
-- add sentos client dhcp status
+- laga centos og add sentos client dhcp status
 - búa til tables og setja í þau
-- laga backup file-inn og láta hann keyra kl 00:00 á föstudegi
-- fixa domain/host names
 - default gateway
 - Skoða DNS betur
 - og gera allt frá 8-13
