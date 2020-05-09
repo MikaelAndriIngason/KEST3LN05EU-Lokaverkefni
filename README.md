@@ -57,6 +57,7 @@ Reminder for myself:
 
 ***
 ### 6 - MySQL
+> $ sudo mysql -u root
 
 ***
 ### 7 - Scheduled backups
