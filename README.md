@@ -143,6 +143,12 @@ Reminder for myself:
 
 ***
 ### 12 - SSH
+> $ sudo ufw allow ssh
+
+**RSA Key**
+> $ sudo nano /etc/ssh/sshd_config
+
+![sshrsa](/Screenshots/ssh_rsakay.PNG)
 
 ***
 ### 13 - NMAP
